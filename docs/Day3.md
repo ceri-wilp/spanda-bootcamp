@@ -1,1 +1,1 @@
-Day 3
+Day 3 We have learnt Github pages
